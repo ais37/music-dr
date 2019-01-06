@@ -1,6 +1,6 @@
-﻿token= توكن البوت
-owner= ايدي حسابك 
-prefix= برفكس البوت
-game= 
+token= NTEzNzQzMTc4MjczMjU5NTMx.DxP1fw.bGLVR7OLzLhsD4SgUMBfQFZafwU
+owner= 439102535693762582 
+prefix= dr
+game= drplay
 stayinchannel=true 
 songinstatus=false 
